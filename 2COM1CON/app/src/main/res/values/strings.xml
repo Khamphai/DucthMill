@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">2COM1CON</string>
+
+    <string-array name="country">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+        <item>%</item>
+    </string-array>
+
+</resources>
